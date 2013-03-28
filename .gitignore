@@ -1,0 +1,10 @@
+.vagrant
+
+# editor
+*.swp
+*~
+.#*
+#*
+
+# OSX
+.DS_Store
